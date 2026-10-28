@@ -60,7 +60,7 @@ Docker Compose runs the frontend and backend as separate services.
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/Emblogs/Ml_med_Insurance
    cd Ml_med_Insurance
    ```
 
@@ -161,4 +161,4 @@ This project is for educational and demonstration purposes. Predictions are esti
 
 **Chukwuneta Emmanuel**
 
-- GitHub:(https://github.com/Emblogs)
+- GitHub:https://github.com/Emblogs
