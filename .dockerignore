@@ -1,0 +1,15 @@
+.venv/
+.git/
+.gitignore
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+logs/
+
+notebooks/
+
+README.md
+
+dataset/

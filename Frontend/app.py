@@ -57,21 +57,21 @@ with col1:
 with col2:
     sex = st.selectbox(
         "Sex",
-        options=["male", "female"]
+        options=["Male", "Female"]
     )
 
     smoker = st.selectbox(
         "Smoker",
-        options=["yes", "no"]
+        options=["Yes", "No"]
     )
 
     region = st.selectbox(
         "Region",
         options=[
-            "northeast",
-            "northwest",
-            "southeast",
-            "southwest"
+            "Northeast",
+            "Northwest",
+            "Southeast",
+            "Southwest"
         ]
     )
 

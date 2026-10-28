@@ -64,3 +64,38 @@ R2 Score (Test): 0.8776269676778818
 2026-10-08 15:29:02,292 | INFO | Prediction made successfully: 9084.179185096498
 2026-10-08 15:29:55,333 | INFO | Input data converted to DataFrame with shape (1, 6)
 2026-10-08 15:29:56,154 | INFO | Prediction made successfully: 10677.478497485712
+2026-10-21 09:13:24,482 | INFO | Model has been loaded successfully
+2026-10-21 09:13:50,505 | INFO | Model has been loaded successfully
+2026-10-21 12:50:53,181 | INFO | Model has been loaded successfully
+2026-10-21 12:51:58,813 | INFO | Dataset with shape (1338, 7) was loaded
+2026-10-21 12:51:58,845 | INFO | Dataset has been split into training and test sets with test size 0.2, Train Shape       age     sex     bmi  children smoker     region
+560    46  female  19.950         2     no  northwest
+1285   47  female  24.320         0     no  northeast
+1142   52  female  24.860         0     no  southeast
+969    39  female  34.320         5     no  southeast
+486    54  female  21.470         3     no  northwest
+...   ...     ...     ...       ...    ...        ...
+1095   18  female  31.350         4     no  northeast
+1130   39  female  23.870         5     no  southeast
+1294   58    male  25.175         0     no  northeast
+860    37  female  47.600         2    yes  southwest
+1126   55    male  29.900         0     no  southwest
+
+[1070 rows x 6 columns], TEST SHAPE (268, 6)
+2026-10-21 12:51:59,736 | INFO | Model Evaluation:
+RMSE (Train): 3621.8722534085805
+RMSE (Test): 4358.699122078816
+2026-10-21 12:51:59,738 | INFO | Model Evaluation:
+MAE (Train): 1988.5006572648151
+MAE (Test): 2426.1546382168026
+2026-10-21 12:51:59,740 | INFO | Model Evaluation:
+R2 Score (Train): 0.9091136324003086
+R2 Score (Test): 0.8776269676778818
+2026-10-21 12:52:46,561 | INFO | Input data converted to DataFrame with shape (1, 6)
+2026-10-21 12:52:46,776 | INFO | Prediction made successfully: 19407.904921596193
+2026-10-21 12:53:24,020 | INFO | Model has been loaded successfully
+2026-10-21 12:53:30,574 | INFO | Model has been loaded successfully
+2026-10-21 12:53:41,050 | INFO | Model has been loaded successfully
+2026-10-21 12:54:49,390 | INFO | Input data converted to DataFrame with shape (1, 6)
+2026-10-21 12:54:49,622 | INFO | Prediction made successfully: 14123.447819658413
+2026-10-28 12:22:10,619 | INFO | Model has been loaded successfully
