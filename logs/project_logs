@@ -99,3 +99,4 @@ R2 Score (Test): 0.8776269676778818
 2026-10-21 12:54:49,390 | INFO | Input data converted to DataFrame with shape (1, 6)
 2026-10-21 12:54:49,622 | INFO | Prediction made successfully: 14123.447819658413
 2026-10-28 12:22:10,619 | INFO | Model has been loaded successfully
+2026-10-28 12:26:36,045 | INFO | Model has been loaded successfully
